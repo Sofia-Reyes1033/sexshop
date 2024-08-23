@@ -1,0 +1,46 @@
+.caja-grande{
+    background-color: aquamarine;
+    width: 80%;
+    height: 500%;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+body{
+    background-color: rgb(39, 38, 38) ;
+}
+
+.caja-pequena-1{
+    background-color: blue;
+    width: 50%;
+    height: 100%;
+    border: 2px solid white;
+}
+
+.caja-pequena-1 img{
+    max-width: 50%;
+    max-height: 500px;
+    margin-left: 25%;
+}
+
+.caja-pequena-2{
+    background-color:  rgb(38, 3, 70);
+width: 20%;
+height: 500px;
+border: 2px solid rgb(198, 198, 114);
+padding: 15px;
+padding-right: 3px;
+text-align: justify;
+overflow: hidden;
+overflow: scroll;
+font-size: 20px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: rgb(231, 72, 72);
+}
+
+.caja-pequena-2 h1{
+    text-align: center;
+    font-weight: bold;
+}

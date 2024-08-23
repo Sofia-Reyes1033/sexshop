@@ -1,0 +1,73 @@
+.caja-grande{
+    background-color: aquamarine;
+    width: 90%;
+    /*height:50%;*/
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+body{
+    background-color: rgb(39, 38, 38);
+}
+
+.caja-pequena-1{
+    background-color: rgb(2, 2, 92);
+    width: 200px;
+    height: 500px;
+    padding: 20px;
+    overflow: hidden;
+    overflow: scroll;
+}
+
+.caja-pequena-3{
+    padding: 20px;
+    overflow: hidden;
+    overflow: scroll;
+}
+
+.caja-pequena-3 p{
+    text-align: justify;
+    padding-right: 25px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.caja-pequena-1 p{
+    text-align: justify;
+    padding-right: 25px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.caja-pequena-3 h1{
+    font-size: 26px;
+    text-align: center;
+    color: blueviolet;
+    text-shadow: 3px 2px 2px white;   
+}
+
+.caja-pequena-2{
+    background-color: rgb(2, 2, 92);
+    width: 850px;
+    height: 500px;
+}
+
+.caja-pequena-3{
+    background-color: rgb(2, 2, 92);
+    width: 200px;
+    height: 500px;
+}
+
+.caja-pequena-2 img{
+    margin-left: 20%;
+    margin-top: 30px;
+}
+
+.imagen3-servicios{
+    width: 60%;
+}
